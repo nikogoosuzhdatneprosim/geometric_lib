@@ -26,6 +26,8 @@ def perimeter(r):
 class CircleAreaTestCases(unittest.TestCase):
   def test_circle_int_first(self):
     self.assertEqual(area(5), math.pi * 5 * 5)
+      def dkfjlsjfd(self):
+    self.assertEqual(area(5), math.pi * 5 * 5)
   def test_circle_int_second(self):
     self.assertEqual(area(57285), math.pi * 57285 * 57285)
   def test_circle_string_first(self):
